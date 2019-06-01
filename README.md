@@ -1,6 +1,6 @@
 # Mohamed-Aziz
-Application de gestion d’un club d’étudiants de l'ENSAJ en utilisant JAVA
-paterne utilise : Proxy
+#Application de gestion d’un club d’étudiants de l'ENSAJ en utilisant JAVA
+#paterne utilise : Proxy
 tests unitaires Junit
 Authentification
 +Administrateur 
