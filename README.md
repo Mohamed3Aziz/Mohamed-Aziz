@@ -1,8 +1,11 @@
 # Mohamed-Aziz
-#Application de gestion d’un club d’étudiants de l'ENSAJ en utilisant JAVA
-#paterne utilise : Proxy
-#tests unitaires Junit
-#Authentification
+Application de gestion d’un club d’étudiants de l'ENSAJ en utilisant JAVA
+ ---------------------------------------------------------------------------------
+paterne utilise : Proxy
+ ---------------------------------------------------------------------------------
+tests unitaires Junit
+ ---------------------------------------------------------------------------------
+Authentification
 ----------------------------------------------------------------------------------
 +Administrateur 
   Unsername : Mohamed
@@ -19,3 +22,4 @@
 +Membre Personnel
   Unsername : hamza013
   password : qwerty90
+ ---------------------------------------------------------------------------------
